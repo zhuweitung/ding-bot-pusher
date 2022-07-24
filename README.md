@@ -62,5 +62,3 @@ java -Dfile.encoding=utf-8 -jar ...
 ```
 
 通过制定编码方式来解决
-
-## 打包为exe
