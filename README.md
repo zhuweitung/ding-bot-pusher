@@ -61,4 +61,4 @@ windows执行乱码
 java -Dfile.encoding=utf-8 -jar ...
 ```
 
-通过制定编码方式来解决
+通过指定编码方式来解决
