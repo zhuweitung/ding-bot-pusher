@@ -44,7 +44,7 @@ java -jar ding-bot-pusher.jar -t your_token -s your_secret -m text --text "your_
 ### 发送link类型消息
 
 ```bash
-java -jar ding-bot-pusher.jar -t your_token -s your_secret -m link --title "your_title" --text "your_text "--msg-url "your_msg_url"
+java -jar ding-bot-pusher.jar -t your_token -s your_secret -m link --title "your_title" --text "your_text" --msg-url "your_msg_url"
 ```
 
 ### 发送markdown类型消息
